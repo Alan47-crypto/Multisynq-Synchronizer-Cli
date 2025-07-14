@@ -1,4 +1,4 @@
-# Run Your Own Multisynq Synchronizer Node: A Beginner's Guide
+# Run Your Own Multisynq Synchronizer CLI Node: A Beginner's Guide
 
 This guide provides step-by-step instructions for installing, configuring, and running a Multisynq Synchronizer node. By running a node, you contribute to the network and earn points. This guide is designed for beginners, with no prior experience assumed.
 
@@ -41,7 +41,7 @@ sudo usermod -aG docker ${USER}
 
 To earn rewards, your node needs a unique Synq Key. Follow this process to get one.
 
-1.  **Connect Your Wallet:** Go to the Multisynq sign-up page using this referral link: **[https://startsynqing.com/?ref=d31b0d-5p0wph](https://startsynqing.com/?ref=d31b0d-5p0wph)** and connect your Phantom wallet.
+1.  **Connect Your Wallet:** Go to the Multisynq sign-up page using this referral link: **[https://startsynqing.com](https://startsynqing.com/?ref=d31b0d-5p0wph)** and connect your **Phantom wallet**.
 
 2.  **Get a Community ID:** Join the official **[Multisynq Discord](https://discord.gg/multisynq)**. Once there, follow their instructions to request a Community ID from the team.
 

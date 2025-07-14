@@ -41,7 +41,7 @@ sudo usermod -aG docker ${USER}
 
 To earn rewards, your node needs a unique Synq Key. Follow this process to get one.
 
-1.  **Connect Your Wallet:** Go to the Multisynq sign-up page using this referral link: **[https://startsynqing.com](https://startsynqing.com/?ref=d31b0d-5p0wph)** and connect your **Phantom wallet**.
+1.  **Connect Your Wallet:** Go to the Multisynq sign-up page using this link: **[https://startsynqing.com](https://startsynqing.com/?ref=d31b0d-5p0wph)** and connect your **Phantom wallet**.
 
 2.  **Get a Community ID:** Join the official **[Multisynq Discord](https://discord.gg/multisynq)**. Once there, follow their instructions to request a Community ID from the team.
 
